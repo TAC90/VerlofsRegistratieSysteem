@@ -10,7 +10,7 @@ using VerlofsRegistratieSysteem.Models;
 
 namespace VerlofsRegistratieSysteem.Controllers
 {
-    public class EmployeeController : Controller
+    public class EmployeeController : BaseController
     {
         private readonly AbsenceContext db = new AbsenceContext();
 
