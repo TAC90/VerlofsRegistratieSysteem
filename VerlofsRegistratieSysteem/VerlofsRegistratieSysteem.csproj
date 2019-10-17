@@ -190,9 +190,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201910171204582_Initial.cs" />
-    <Compile Include="Migrations\201910171204582_Initial.Designer.cs">
-      <DependentUpon>201910171204582_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\201910171357206_UserId_Change.cs" />
+    <Compile Include="Migrations\201910171357206_UserId_Change.Designer.cs">
+      <DependentUpon>201910171357206_UserId_Change.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Absence.cs" />
@@ -291,8 +291,8 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201910171204582_Initial.resx">
-      <DependentUpon>201910171204582_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201910171357206_UserId_Change.resx">
+      <DependentUpon>201910171357206_UserId_Change.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

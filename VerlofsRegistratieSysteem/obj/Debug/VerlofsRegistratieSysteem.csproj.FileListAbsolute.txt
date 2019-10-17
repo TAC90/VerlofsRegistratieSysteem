@@ -109,8 +109,6 @@ C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistr
 C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.dll
 C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.pdb
 C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csprojAssemblyReference.cache
-C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.Migrations.Initial.resources
-C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csproj.GenerateResource.cache
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.Migrations.Initial.resources
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csproj.GenerateResource.cache
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csproj.CoreCompileInputs.cache
@@ -223,3 +221,5 @@ D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\bin\Mi
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\bin\Microsoft.Owin.Security.OAuth.xml
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\MSI_BU\ITVitae\Web\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csproj.CopyComplete
+C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.Migrations.UserId_Change.resources
+C:\Users\alpha\Desktop\ITvitae\Projects\VerlofsRegistratieSysteem\VerlofsRegistratieSysteem\obj\Debug\VerlofsRegistratieSysteem.csproj.GenerateResource.cache

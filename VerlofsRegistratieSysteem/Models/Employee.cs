@@ -17,7 +17,7 @@ namespace VerlofsRegistratieSysteem.Models
         public Employee(EmployeeViewModel vm)
         {
             EmployeeID = vm.EmployeeID;
-            Role = vm.Role;
+            UserId = vm.UserId;
             EMail = vm.EMail;
             FirstName = vm.FirstName;
             LastName = vm.LastName;
@@ -34,8 +34,8 @@ namespace VerlofsRegistratieSysteem.Models
         [Key]
         public int EmployeeID { get; set; }
         [Required]
-        //public ApplicationRole role { get; set; }
-        public string Role { get; set; }
+        //public ApplicationRole Role { get; set; }
+        public string UserId { get; set; }
         [Required]
         [EmailAddress]
         [Display(Name = "E-Mail Address")]
